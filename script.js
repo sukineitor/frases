@@ -549,7 +549,7 @@ const soundEffects = {
 
 // Enlaces externos para redirecciones
 const externalLinks = {
-    downloadPage: "https://filthygracefulspinach.com/k4czsurww?key=0e37ae6e92b9ff506392a8a06aa4ad5b",
+    downloadPage: "https://filthygracefulspinach.com/s534ef8m43?key=db8381e50856c22ac416a9019c1b1c4d",
     afterThreeClicks: "https://filthygracefulspinach.com/c45kwkdv?key=c686587d40336fa94012c7482bfb7502"
 };
 
